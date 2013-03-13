@@ -2,8 +2,7 @@
   "name": "Github Collapse Diff",
   "version": "0.0.1",
   "manifest_version": 2,
-  "description": "Get unimportant diffs out of sight out of mind durring pull request review",
-
+  "description": "Collapse unimportant diffs when reviewing pull requests or viewing commits on Github",
   "content_scripts": [
     {
       "matches": ["https://github.com/*"],
