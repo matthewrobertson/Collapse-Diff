@@ -9,6 +9,6 @@
       "js": ["lib/collapse_diff.js"]
     }
   ],
-  "homepage_url": "http://path/to/homepage",
+  "homepage_url": "https://github.com/matthewrobertson/Github-Collapse-Diff",
   "offline_enabled": true
 }
