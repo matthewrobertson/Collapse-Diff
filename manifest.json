@@ -1,0 +1,15 @@
+{
+  "name": "Github Collapse Diff",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "description": "Get unimportant diffs out of sight out of mind durring pull request review",
+
+  "content_scripts": [
+    {
+      "matches": ["https://github.com/*"],
+      "js": ["lib/collapse_diff.js"]
+    }
+  ],
+  "homepage_url": "http://path/to/homepage",
+  "offline_enabled": true
+}
