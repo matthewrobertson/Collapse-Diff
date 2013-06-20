@@ -9,4 +9,5 @@ Add's a button to toggle visibility of files.
 
 ### Where?
 
-Install it here:
+- Chrome Web Store: https://chrome.google.com/webstore/detail/github-collapse-diff/eenmpdlgpfhmgkkmpjmmchokkmjacaeo
+- Userscripts.org: http://userscripts.org/scripts/show/171337
