@@ -1,4 +1,4 @@
-Github Collapse Diff
+Collapse Diff
 ====================
 
 This is a simple Chrome extension to ignore those pesky diffs you just don't care to see in a Github pull request. Great for when you add external JS libraries and don't want to see that code.
